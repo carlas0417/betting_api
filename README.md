@@ -1,1 +1,1 @@
-# etl_sports_odds_event_data
+# etl_sports_events_odds_data
